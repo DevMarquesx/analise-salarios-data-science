@@ -21,3 +21,4 @@ Este projeto realiza uma Análise Exploratória de Dados (EDA) para mapear o cen
 ## 🚀 Como Executar
 1. Clone este repositório: `git clone https://github.com/DevMarquesx/analise-salarios-data-science.git`
 2. Abra o arquivo `.ipynb` no Jupyter Notebook ou diretamente no Google Colab.
+3. O dataset utilizado para analise tem o link especificado na primeira célula de Markdown
